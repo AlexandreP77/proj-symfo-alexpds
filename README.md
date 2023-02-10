@@ -37,8 +37,3 @@ admin
 
 pour les identifiants admin
 
-# ecom-proj3-symfo-apds
-
-# apds-symfo-ecom-proj3
-
-# proj-symfo-alexpds
